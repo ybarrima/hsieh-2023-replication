@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env
+*.egg-info/
+.eggs/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Optional: uncomment if image/data folders are too large for GitHub
+# img/
+# img_for_experiment_before_editing/
+# process_images/raw_images/
+# process_images/processed_faces/
