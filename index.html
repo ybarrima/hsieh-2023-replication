@@ -1278,9 +1278,9 @@
             }
         };
 
-        var fixation = {
+var fixation = {
             type: jsPsychHtmlKeyboardResponse,
-            stimulus: '<div class="loading-screen" aria-label="Loading"><div class="loading-spinner"></div><div class="loading-dots" aria-hidden="true"><span></span><span></span><span></span></div></div>',
+            stimulus: '<div style="position:fixed; inset:0; display:flex; align-items:center; justify-content:center; background:#ffffff; z-index:9999;"><span style="font-size:72px; color:#000000; font-family:Arial, sans-serif; line-height:1;">+</span></div>',
             choices: "NO_KEYS",
             trial_duration: 500,
             data: { task_part: 'fixation' }

@@ -1,0 +1,614 @@
+success,timeout,failed_images,failed_audio,failed_video,trial_type,trial_index,time_elapsed,internal_node_id,subject,group,date,rt,stimulus,response,task_part,task,face_id,condition,age_rating
+TRUE,FALSE,[],[],[],preload,0,337,0.0-0.0,6,B,23/02/2026,,,,,,,,
+,,,,,html-keyboard-response,1,56379,0.0-1.0,6,B,23/02/2026,56040,"
+            <h1>Welcome to the Experiment</h1>
+            <p>You will see a series of faces. Each face appears for <b>2 seconds</b>.</p>
+            <p>Your task is to estimate their age.</p>
+            <p>Press any key to begin Part 1.</p>
+        ", ,,,,,
+,,,,,html-keyboard-response,2,56885,0.0-2.0-0.0,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,3,58899,0.0-2.0-1.0,6,B,23/02/2026,null,"<img src=""img/face_007_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,7,grey,
+,,,,,survey-text,4,61593,0.0-2.0-2.0,6,B,23/02/2026,2685,,"{""age"":""33""}",,exp1,7,grey,33
+,,,,,html-keyboard-response,5,62098,0.0-2.0-0.1,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,6,64113,0.0-2.0-1.1,6,B,23/02/2026,null,"<img src=""img/face_022_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,22,color,
+,,,,,survey-text,7,66278,0.0-2.0-2.1,6,B,23/02/2026,2160,,"{""age"":""24""}",,exp1,22,color,24
+,,,,,html-keyboard-response,8,66791,0.0-2.0-0.2,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,9,68797,0.0-2.0-1.2,6,B,23/02/2026,null,"<img src=""img/face_098_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,98,color,
+,,,,,survey-text,10,69938,0.0-2.0-2.2,6,B,23/02/2026,1139,,"{""age"":""45""}",,exp1,98,color,45
+,,,,,html-keyboard-response,11,70443,0.0-2.0-0.3,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,12,72449,0.0-2.0-1.3,6,B,23/02/2026,null,"<img src=""img/face_063_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,63,grey,
+,,,,,survey-text,13,76858,0.0-2.0-2.3,6,B,23/02/2026,4403,,"{""age"":""30""}",,exp1,63,grey,30
+,,,,,html-keyboard-response,14,77368,0.0-2.0-0.4,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,15,79379,0.0-2.0-1.4,6,B,23/02/2026,null,"<img src=""img/face_071_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,71,grey,
+,,,,,survey-text,16,80120,0.0-2.0-2.4,6,B,23/02/2026,736,,"{""age"":""20""}",,exp1,71,grey,20
+,,,,,html-keyboard-response,17,80627,0.0-2.0-0.5,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,18,82639,0.0-2.0-1.5,6,B,23/02/2026,null,"<img src=""img/face_070_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,70,color,
+,,,,,survey-text,19,83801,0.0-2.0-2.5,6,B,23/02/2026,1160,,"{""age"":""18""}",,exp1,70,color,18
+,,,,,html-keyboard-response,20,84304,0.0-2.0-0.6,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,21,86319,0.0-2.0-1.6,6,B,23/02/2026,null,"<img src=""img/face_011_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,11,grey,
+,,,,,survey-text,22,87235,0.0-2.0-2.6,6,B,23/02/2026,910,,"{""age"":""20""}",,exp1,11,grey,20
+,,,,,html-keyboard-response,23,87737,0.0-2.0-0.7,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,24,89742,0.0-2.0-1.7,6,B,23/02/2026,null,"<img src=""img/face_043_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,43,grey,
+,,,,,survey-text,25,91269,0.0-2.0-2.7,6,B,23/02/2026,1522,,"{""age"":""32""}",,exp1,43,grey,32
+,,,,,html-keyboard-response,26,91770,0.0-2.0-0.8,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,27,93781,0.0-2.0-1.8,6,B,23/02/2026,null,"<img src=""img/face_019_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,19,grey,
+,,,,,survey-text,28,94701,0.0-2.0-2.8,6,B,23/02/2026,914,,"{""age"":""30""}",,exp1,19,grey,30
+,,,,,html-keyboard-response,29,95211,0.0-2.0-0.9,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,30,97221,0.0-2.0-1.9,6,B,23/02/2026,null,"<img src=""img/face_013_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,13,grey,
+,,,,,survey-text,31,102017,0.0-2.0-2.9,6,B,23/02/2026,4792,,"{""age"":""30""}",,exp1,13,grey,30
+,,,,,html-keyboard-response,32,102530,0.0-2.0-0.10,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,33,104536,0.0-2.0-1.10,6,B,23/02/2026,null,"<img src=""img/face_067_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,67,grey,
+,,,,,survey-text,34,105763,0.0-2.0-2.10,6,B,23/02/2026,1222,,"{""age"":""30""}",,exp1,67,grey,30
+,,,,,html-keyboard-response,35,106277,0.0-2.0-0.11,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,36,108293,0.0-2.0-1.11,6,B,23/02/2026,null,"<img src=""img/face_028_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,28,color,
+,,,,,survey-text,37,111444,0.0-2.0-2.11,6,B,23/02/2026,3148,,"{""age"":""28""}",,exp1,28,color,28
+,,,,,html-keyboard-response,38,111956,0.0-2.0-0.12,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,39,113965,0.0-2.0-1.12,6,B,23/02/2026,null,"<img src=""img/face_023_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,23,grey,
+,,,,,survey-text,40,116561,0.0-2.0-2.12,6,B,23/02/2026,2590,,"{""age"":""30""}",,exp1,23,grey,30
+,,,,,html-keyboard-response,41,117073,0.0-2.0-0.13,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,42,119075,0.0-2.0-1.13,6,B,23/02/2026,null,"<img src=""img/face_084_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,84,color,
+,,,,,survey-text,43,119762,0.0-2.0-2.13,6,B,23/02/2026,683,,"{""age"":""40""}",,exp1,84,color,40
+,,,,,html-keyboard-response,44,120268,0.0-2.0-0.14,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,45,122273,0.0-2.0-1.14,6,B,23/02/2026,null,"<img src=""img/face_018_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,18,color,
+,,,,,survey-text,46,123514,0.0-2.0-2.14,6,B,23/02/2026,1236,,"{""age"":""35""}",,exp1,18,color,35
+,,,,,html-keyboard-response,47,124015,0.0-2.0-0.15,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,48,126023,0.0-2.0-1.15,6,B,23/02/2026,null,"<img src=""img/face_014_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,14,color,
+,,,,,survey-text,49,127925,0.0-2.0-2.15,6,B,23/02/2026,1898,,"{""age"":""60""}",,exp1,14,color,60
+,,,,,html-keyboard-response,50,128439,0.0-2.0-0.16,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,51,130442,0.0-2.0-1.16,6,B,23/02/2026,null,"<img src=""img/face_073_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,73,grey,
+,,,,,survey-text,52,131932,0.0-2.0-2.16,6,B,23/02/2026,1486,,"{""age"":""2""}",,exp1,73,grey,28
+,,,,,html-keyboard-response,53,132434,0.0-2.0-0.17,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,54,134449,0.0-2.0-1.17,6,B,23/02/2026,null,"<img src=""img/face_059_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,59,grey,
+,,,,,survey-text,55,135329,0.0-2.0-2.17,6,B,23/02/2026,875,,"{""age"":""30""}",,exp1,59,grey,30
+,,,,,html-keyboard-response,56,135832,0.0-2.0-0.18,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,57,137836,0.0-2.0-1.18,6,B,23/02/2026,null,"<img src=""img/face_055_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,55,grey,
+,,,,,survey-text,58,139084,0.0-2.0-2.18,6,B,23/02/2026,1244,,"{""age"":""23""}",,exp1,55,grey,23
+,,,,,html-keyboard-response,59,139591,0.0-2.0-0.19,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,60,141606,0.0-2.0-1.19,6,B,23/02/2026,null,"<img src=""img/face_045_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,45,grey,
+,,,,,survey-text,61,142341,0.0-2.0-2.19,6,B,23/02/2026,728,,"{""age"":""32""}",,exp1,45,grey,32
+,,,,,html-keyboard-response,62,142856,0.0-2.0-0.20,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,63,144870,0.0-2.0-1.20,6,B,23/02/2026,null,"<img src=""img/face_016_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,16,color,
+,,,,,survey-text,64,145749,0.0-2.0-2.20,6,B,23/02/2026,874,,"{""age"":""24""}",,exp1,16,color,24
+,,,,,html-keyboard-response,65,146255,0.0-2.0-0.21,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,66,148264,0.0-2.0-1.21,6,B,23/02/2026,null,"<img src=""img/face_066_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,66,color,
+,,,,,survey-text,67,167766,0.0-2.0-2.21,6,B,23/02/2026,19496,,"{""age"":""60""}",,exp1,66,color,60
+,,,,,html-keyboard-response,68,168274,0.0-2.0-0.22,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,69,170290,0.0-2.0-1.22,6,B,23/02/2026,null,"<img src=""img/face_064_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,64,color,
+,,,,,survey-text,70,171796,0.0-2.0-2.22,6,B,23/02/2026,1501,,"{""age"":""50""}",,exp1,64,color,50
+,,,,,html-keyboard-response,71,172312,0.0-2.0-0.23,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,72,174320,0.0-2.0-1.23,6,B,23/02/2026,null,"<img src=""img/face_075_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,75,grey,
+,,,,,survey-text,73,174954,0.0-2.0-2.23,6,B,23/02/2026,629,,"{""age"":""30""}",,exp1,75,grey,30
+,,,,,html-keyboard-response,74,175468,0.0-2.0-0.24,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,75,177475,0.0-2.0-1.24,6,B,23/02/2026,null,"<img src=""img/face_047_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,47,grey,
+,,,,,survey-text,76,178786,0.0-2.0-2.24,6,B,23/02/2026,1308,,"{""age"":""25""}",,exp1,47,grey,25
+,,,,,html-keyboard-response,77,179303,0.0-2.0-0.25,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,78,181312,0.0-2.0-1.25,6,B,23/02/2026,null,"<img src=""img/face_086_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,86,color,
+,,,,,survey-text,79,181576,0.0-2.0-2.25,6,B,23/02/2026,260,,"{""age"":""0""}",,exp1,86,color,30
+,,,,,html-keyboard-response,80,182091,0.0-2.0-0.26,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,81,184100,0.0-2.0-1.26,6,B,23/02/2026,null,"<img src=""img/face_094_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,94,color,
+,,,,,survey-text,82,185377,0.0-2.0-2.26,6,B,23/02/2026,1274,,"{""age"":""30""}",,exp1,94,color,30
+,,,,,html-keyboard-response,83,185879,0.0-2.0-0.27,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,84,187885,0.0-2.0-1.27,6,B,23/02/2026,null,"<img src=""img/face_036_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,36,color,
+,,,,,survey-text,85,189246,0.0-2.0-2.27,6,B,23/02/2026,1358,,"{""age"":""32""}",,exp1,36,color,32
+,,,,,html-keyboard-response,86,189758,0.0-2.0-0.28,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,87,192667,0.0-2.0-1.28,6,B,23/02/2026,null,"<img src=""img/face_012_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,12,color,
+,,,,,survey-text,88,199520,0.0-2.0-2.28,6,B,23/02/2026,6849,,"{""age"":""33""}",,exp1,12,color,33
+,,,,,html-keyboard-response,89,200023,0.0-2.0-0.29,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,90,202029,0.0-2.0-1.29,6,B,23/02/2026,null,"<img src=""img/face_100_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,100,color,
+,,,,,survey-text,91,204550,0.0-2.0-2.29,6,B,23/02/2026,2517,,"{""age"":""29""}",,exp1,100,color,29
+,,,,,html-keyboard-response,92,205059,0.0-2.0-0.30,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,93,207069,0.0-2.0-1.30,6,B,23/02/2026,null,"<img src=""img/face_057_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,57,grey,
+,,,,,survey-text,94,208112,0.0-2.0-2.30,6,B,23/02/2026,1037,,"{""age"":""34""}",,exp1,57,grey,34
+,,,,,html-keyboard-response,95,208618,0.0-2.0-0.31,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,96,210623,0.0-2.0-1.31,6,B,23/02/2026,null,"<img src=""img/face_009_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,9,grey,
+,,,,,survey-text,97,211699,0.0-2.0-2.31,6,B,23/02/2026,1072,,"{""age"":""40""}",,exp1,9,grey,40
+,,,,,html-keyboard-response,98,212207,0.0-2.0-0.32,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,99,214212,0.0-2.0-1.32,6,B,23/02/2026,null,"<img src=""img/face_040_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,40,color,
+,,,,,survey-text,100,214902,0.0-2.0-2.32,6,B,23/02/2026,685,,"{""age"":""40""}",,exp1,40,color,40
+,,,,,html-keyboard-response,101,215416,0.0-2.0-0.33,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,102,217419,0.0-2.0-1.33,6,B,23/02/2026,null,"<img src=""img/face_015_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,15,grey,
+,,,,,survey-text,103,218245,0.0-2.0-2.33,6,B,23/02/2026,822,,"{""age"":""40""}",,exp1,15,grey,40
+,,,,,html-keyboard-response,104,218756,0.0-2.0-0.34,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,105,220761,0.0-2.0-1.34,6,B,23/02/2026,null,"<img src=""img/face_088_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,88,color,
+,,,,,survey-text,106,221968,0.0-2.0-2.34,6,B,23/02/2026,1202,,"{""age"":""40""}",,exp1,88,color,40
+,,,,,html-keyboard-response,107,222473,0.0-2.0-0.35,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,108,224490,0.0-2.0-1.35,6,B,23/02/2026,null,"<img src=""img/face_077_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,77,grey,
+,,,,,survey-text,109,226494,0.0-2.0-2.35,6,B,23/02/2026,2000,,"{""age"":""35""}",,exp1,77,grey,35
+,,,,,html-keyboard-response,110,226998,0.0-2.0-0.36,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,111,229007,0.0-2.0-1.36,6,B,23/02/2026,null,"<img src=""img/face_025_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,25,grey,
+,,,,,survey-text,112,232623,0.0-2.0-2.36,6,B,23/02/2026,3612,,"{""age"":""40""}",,exp1,25,grey,40
+,,,,,html-keyboard-response,113,233135,0.0-2.0-0.37,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,114,235138,0.0-2.0-1.37,6,B,23/02/2026,null,"<img src=""img/face_029_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,29,grey,
+,,,,,survey-text,115,236824,0.0-2.0-2.37,6,B,23/02/2026,1682,,"{""age"":""38""}",,exp1,29,grey,38
+,,,,,html-keyboard-response,116,237338,0.0-2.0-0.38,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,117,239346,0.0-2.0-1.38,6,B,23/02/2026,null,"<img src=""img/face_005_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,5,grey,
+,,,,,survey-text,118,240230,0.0-2.0-2.38,6,B,23/02/2026,880,,"{""age"":""34""}",,exp1,5,grey,34
+,,,,,html-keyboard-response,119,240733,0.0-2.0-0.39,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,120,242751,0.0-2.0-1.39,6,B,23/02/2026,null,"<img src=""img/face_054_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,54,color,
+,,,,,survey-text,121,245262,0.0-2.0-2.39,6,B,23/02/2026,2508,,"{""age"":""29""}",,exp1,54,color,29
+,,,,,html-keyboard-response,122,245770,0.0-2.0-0.40,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,123,247777,0.0-2.0-1.40,6,B,23/02/2026,null,"<img src=""img/face_037_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,37,grey,
+,,,,,survey-text,124,249773,0.0-2.0-2.40,6,B,23/02/2026,1992,,"{""age"":""25""}",,exp1,37,grey,25
+,,,,,html-keyboard-response,125,250288,0.0-2.0-0.41,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,126,252301,0.0-2.0-1.41,6,B,23/02/2026,null,"<img src=""img/face_074_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,74,color,
+,,,,,survey-text,127,253318,0.0-2.0-2.41,6,B,23/02/2026,1013,,"{""age"":""30""}",,exp1,74,color,30
+,,,,,html-keyboard-response,128,253830,0.0-2.0-0.42,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,129,255837,0.0-2.0-1.42,6,B,23/02/2026,null,"<img src=""img/face_089_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,89,grey,
+,,,,,survey-text,130,256489,0.0-2.0-2.42,6,B,23/02/2026,647,,"{""age"":""30""}",,exp1,89,grey,30
+,,,,,html-keyboard-response,131,256990,0.0-2.0-0.43,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,132,259004,0.0-2.0-1.43,6,B,23/02/2026,null,"<img src=""img/face_083_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,83,grey,
+,,,,,survey-text,133,261277,0.0-2.0-2.43,6,B,23/02/2026,2269,,"{""age"":""23""}",,exp1,83,grey,23
+,,,,,html-keyboard-response,134,261792,0.0-2.0-0.44,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,135,263807,0.0-2.0-1.44,6,B,23/02/2026,null,"<img src=""img/face_050_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,50,color,
+,,,,,survey-text,136,264545,0.0-2.0-2.44,6,B,23/02/2026,734,,"{""age"":""45""}",,exp1,50,color,45
+,,,,,html-keyboard-response,137,265058,0.0-2.0-0.45,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,138,267063,0.0-2.0-1.45,6,B,23/02/2026,null,"<img src=""img/face_085_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,85,grey,
+,,,,,survey-text,139,268141,0.0-2.0-2.45,6,B,23/02/2026,1075,,"{""age"":""30""}",,exp1,85,grey,30
+,,,,,html-keyboard-response,140,268657,0.0-2.0-0.46,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,141,270665,0.0-2.0-1.46,6,B,23/02/2026,null,"<img src=""img/face_069_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,69,grey,
+,,,,,survey-text,142,271829,0.0-2.0-2.46,6,B,23/02/2026,1160,,"{""age"":""2""}",,exp1,69,grey,27
+,,,,,html-keyboard-response,143,272346,0.0-2.0-0.47,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,144,274348,0.0-2.0-1.47,6,B,23/02/2026,null,"<img src=""img/face_033_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,33,grey,
+,,,,,survey-text,145,275779,0.0-2.0-2.47,6,B,23/02/2026,1428,,"{""age"":""28""}",,exp1,33,grey,28
+,,,,,html-keyboard-response,146,276295,0.0-2.0-0.48,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,147,278300,0.0-2.0-1.48,6,B,23/02/2026,null,"<img src=""img/face_072_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,72,color,
+,,,,,survey-text,148,279069,0.0-2.0-2.48,6,B,23/02/2026,766,,"{""age"":""32""}",,exp1,72,color,32
+,,,,,html-keyboard-response,149,279575,0.0-2.0-0.49,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,150,281579,0.0-2.0-1.49,6,B,23/02/2026,null,"<img src=""img/face_030_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,30,color,
+,,,,,survey-text,151,282326,0.0-2.0-2.49,6,B,23/02/2026,743,,"{""age"":""45""}",,exp1,30,color,45
+,,,,,html-keyboard-response,152,282839,0.0-2.0-0.50,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,153,284852,0.0-2.0-1.50,6,B,23/02/2026,null,"<img src=""img/face_026_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,26,color,
+,,,,,survey-text,154,286236,0.0-2.0-2.50,6,B,23/02/2026,1380,,"{""age"":""29""}",,exp1,26,color,29
+,,,,,html-keyboard-response,155,286746,0.0-2.0-0.51,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,156,288752,0.0-2.0-1.51,6,B,23/02/2026,null,"<img src=""img/face_058_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,58,color,
+,,,,,survey-text,157,292084,0.0-2.0-2.51,6,B,23/02/2026,3329,,"{""age"":""18""}",,exp1,58,color,18
+,,,,,html-keyboard-response,158,292592,0.0-2.0-0.52,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,159,294604,0.0-2.0-1.52,6,B,23/02/2026,null,"<img src=""img/face_042_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,42,color,
+,,,,,survey-text,160,297154,0.0-2.0-2.52,6,B,23/02/2026,2547,,"{""age"":""24""}",,exp1,42,color,24
+,,,,,html-keyboard-response,161,297658,0.0-2.0-0.53,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,162,299663,0.0-2.0-1.53,6,B,23/02/2026,null,"<img src=""img/face_099_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,99,grey,
+,,,,,survey-text,163,302207,0.0-2.0-2.53,6,B,23/02/2026,2540,,"{""age"":""30""}",,exp1,99,grey,30
+,,,,,html-keyboard-response,164,302720,0.0-2.0-0.54,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,165,304728,0.0-2.0-1.54,6,B,23/02/2026,null,"<img src=""img/face_032_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,32,color,
+,,,,,survey-text,166,306385,0.0-2.0-2.54,6,B,23/02/2026,1652,,"{""age"":""30""}",,exp1,32,color,30
+,,,,,html-keyboard-response,167,306887,0.0-2.0-0.55,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,168,308900,0.0-2.0-1.55,6,B,23/02/2026,null,"<img src=""img/face_061_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,61,grey,
+,,,,,survey-text,169,311241,0.0-2.0-2.55,6,B,23/02/2026,2337,,"{""age"":""30""}",,exp1,61,grey,30
+,,,,,html-keyboard-response,170,311753,0.0-2.0-0.56,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,171,313761,0.0-2.0-1.56,6,B,23/02/2026,null,"<img src=""img/face_048_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,48,color,
+,,,,,survey-text,172,315076,0.0-2.0-2.56,6,B,23/02/2026,1312,,"{""age"":""30""}",,exp1,48,color,30
+,,,,,html-keyboard-response,173,315590,0.0-2.0-0.57,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,174,317602,0.0-2.0-1.57,6,B,23/02/2026,null,"<img src=""img/face_006_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,6,color,
+,,,,,survey-text,175,319048,0.0-2.0-2.57,6,B,23/02/2026,1443,,"{""age"":""50""}",,exp1,6,color,50
+,,,,,html-keyboard-response,176,319562,0.0-2.0-0.58,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,177,321564,0.0-2.0-1.58,6,B,23/02/2026,null,"<img src=""img/face_090_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,90,color,
+,,,,,survey-text,178,324176,0.0-2.0-2.58,6,B,23/02/2026,2608,,"{""age"":""32""}",,exp1,90,color,32
+,,,,,html-keyboard-response,179,324691,0.0-2.0-0.59,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,180,326705,0.0-2.0-1.59,6,B,23/02/2026,null,"<img src=""img/face_034_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,34,color,
+,,,,,survey-text,181,329114,0.0-2.0-2.59,6,B,23/02/2026,2404,,"{""age"":""25""}",,exp1,34,color,25
+,,,,,html-keyboard-response,182,329616,0.0-2.0-0.60,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,183,331625,0.0-2.0-1.60,6,B,23/02/2026,null,"<img src=""img/face_002_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,2,color,
+,,,,,survey-text,184,332291,0.0-2.0-2.60,6,B,23/02/2026,662,,"{""age"":""25""}",,exp1,2,color,25
+,,,,,html-keyboard-response,185,332800,0.0-2.0-0.61,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,186,334816,0.0-2.0-1.61,6,B,23/02/2026,null,"<img src=""img/face_078_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,78,color,
+,,,,,survey-text,187,336234,0.0-2.0-2.61,6,B,23/02/2026,1411,,"{""age"":""23""}",,exp1,78,color,23
+,,,,,html-keyboard-response,188,336748,0.0-2.0-0.62,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,189,338761,0.0-2.0-1.62,6,B,23/02/2026,null,"<img src=""img/face_080_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,80,color,
+,,,,,survey-text,190,340001,0.0-2.0-2.62,6,B,23/02/2026,1233,,"{""age"":""25""}",,exp1,80,color,25
+,,,,,html-keyboard-response,191,340511,0.0-2.0-0.63,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,192,342519,0.0-2.0-1.63,6,B,23/02/2026,null,"<img src=""img/face_081_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,81,grey,
+,,,,,survey-text,193,344261,0.0-2.0-2.63,6,B,23/02/2026,1737,,"{""age"":""2""}",,exp1,81,grey,25
+,,,,,html-keyboard-response,194,344764,0.0-2.0-0.64,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,195,346769,0.0-2.0-1.64,6,B,23/02/2026,null,"<img src=""img/face_003_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,3,grey,
+,,,,,survey-text,196,347648,0.0-2.0-2.64,6,B,23/02/2026,875,,"{""age"":""30""}",,exp1,3,grey,30
+,,,,,html-keyboard-response,197,348156,0.0-2.0-0.65,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,198,350166,0.0-2.0-1.65,6,B,23/02/2026,null,"<img src=""img/face_039_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,39,grey,
+,,,,,survey-text,199,352018,0.0-2.0-2.65,6,B,23/02/2026,1848,,"{""age"":""35""}",,exp1,39,grey,35
+,,,,,html-keyboard-response,200,352524,0.0-2.0-0.66,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,201,354533,0.0-2.0-1.66,6,B,23/02/2026,null,"<img src=""img/face_068_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,68,color,
+,,,,,survey-text,202,356091,0.0-2.0-2.66,6,B,23/02/2026,1554,,"{""age"":""20""}",,exp1,68,color,20
+,,,,,html-keyboard-response,203,356602,0.0-2.0-0.67,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,204,358607,0.0-2.0-1.67,6,B,23/02/2026,null,"<img src=""img/face_001_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,1,grey,
+,,,,,survey-text,205,359529,0.0-2.0-2.67,6,B,23/02/2026,918,,"{""age"":""55""}",,exp1,1,grey,55
+,,,,,html-keyboard-response,206,360041,0.0-2.0-0.68,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,207,362049,0.0-2.0-1.68,6,B,23/02/2026,null,"<img src=""img/face_044_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,44,color,
+,,,,,survey-text,208,368031,0.0-2.0-2.68,6,B,23/02/2026,5979,,"{""age"":""38""}",,exp1,44,color,38
+,,,,,html-keyboard-response,209,368535,0.0-2.0-0.69,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,210,370552,0.0-2.0-1.69,6,B,23/02/2026,null,"<img src=""img/face_049_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,49,grey,
+,,,,,survey-text,211,377090,0.0-2.0-2.69,6,B,23/02/2026,6533,,"{""age"":""36""}",,exp1,49,grey,36
+,,,,,html-keyboard-response,212,377592,0.0-2.0-0.70,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,213,379598,0.0-2.0-1.70,6,B,23/02/2026,null,"<img src=""img/face_091_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,91,grey,
+,,,,,survey-text,214,380540,0.0-2.0-2.70,6,B,23/02/2026,937,,"{""age"":""40""}",,exp1,91,grey,40
+,,,,,html-keyboard-response,215,381046,0.0-2.0-0.71,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,216,383055,0.0-2.0-1.71,6,B,23/02/2026,null,"<img src=""img/face_024_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,24,color,
+,,,,,survey-text,217,386078,0.0-2.0-2.71,6,B,23/02/2026,3019,,"{""age"":""30""}",,exp1,24,color,30
+,,,,,html-keyboard-response,218,386586,0.0-2.0-0.72,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,219,388595,0.0-2.0-1.72,6,B,23/02/2026,null,"<img src=""img/face_095_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,95,grey,
+,,,,,survey-text,220,391447,0.0-2.0-2.72,6,B,23/02/2026,2847,,"{""age"":""40""}",,exp1,95,grey,40
+,,,,,html-keyboard-response,221,391949,0.0-2.0-0.73,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,222,393966,0.0-2.0-1.73,6,B,23/02/2026,null,"<img src=""img/face_038_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,38,color,
+,,,,,survey-text,223,395458,0.0-2.0-2.73,6,B,23/02/2026,1488,,"{""age"":""43""}",,exp1,38,color,43
+,,,,,html-keyboard-response,224,395969,0.0-2.0-0.74,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,225,397972,0.0-2.0-1.74,6,B,23/02/2026,null,"<img src=""img/face_060_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,60,color,
+,,,,,survey-text,226,401499,0.0-2.0-2.74,6,B,23/02/2026,3523,,"{""age"":""40""}",,exp1,60,color,40
+,,,,,html-keyboard-response,227,402012,0.0-2.0-0.75,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,228,404023,0.0-2.0-1.75,6,B,23/02/2026,null,"<img src=""img/face_020_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,20,color,
+,,,,,survey-text,229,405272,0.0-2.0-2.75,6,B,23/02/2026,1246,,"{""age"":""6""}",,exp1,20,color,60
+,,,,,html-keyboard-response,230,405775,0.0-2.0-0.76,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,231,407779,0.0-2.0-1.76,6,B,23/02/2026,null,"<img src=""img/face_097_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,97,grey,
+,,,,,survey-text,232,413412,0.0-2.0-2.76,6,B,23/02/2026,5628,,"{""age"":""19""}",,exp1,97,grey,19
+,,,,,html-keyboard-response,233,413925,0.0-2.0-0.77,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,234,415942,0.0-2.0-1.77,6,B,23/02/2026,null,"<img src=""img/face_017_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,17,grey,
+,,,,,survey-text,235,418864,0.0-2.0-2.77,6,B,23/02/2026,2917,,"{""age"":""30""}",,exp1,17,grey,30
+,,,,,html-keyboard-response,236,419375,0.0-2.0-0.78,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,237,421388,0.0-2.0-1.78,6,B,23/02/2026,null,"<img src=""img/face_056_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,56,color,
+,,,,,survey-text,238,428331,0.0-2.0-2.78,6,B,23/02/2026,6939,,"{""age"":""30""}",,exp1,56,color,30
+,,,,,html-keyboard-response,239,428839,0.0-2.0-0.79,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,240,430845,0.0-2.0-1.79,6,B,23/02/2026,null,"<img src=""img/face_052_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,52,color,
+,,,,,survey-text,241,431940,0.0-2.0-2.79,6,B,23/02/2026,1091,,"{""age"":""27""}",,exp1,52,color,27
+,,,,,html-keyboard-response,242,432451,0.0-2.0-0.80,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,243,434458,0.0-2.0-1.80,6,B,23/02/2026,null,"<img src=""img/face_065_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,65,grey,
+,,,,,survey-text,244,435328,0.0-2.0-2.80,6,B,23/02/2026,866,,"{""age"":""30""}",,exp1,65,grey,30
+,,,,,html-keyboard-response,245,435839,0.0-2.0-0.81,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,246,437845,0.0-2.0-1.81,6,B,23/02/2026,null,"<img src=""img/face_010_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,10,color,
+,,,,,survey-text,247,438618,0.0-2.0-2.81,6,B,23/02/2026,770,,"{""age"":""40""}",,exp1,10,color,40
+,,,,,html-keyboard-response,248,439130,0.0-2.0-0.82,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,249,441148,0.0-2.0-1.82,6,B,23/02/2026,null,"<img src=""img/face_062_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,62,color,
+,,,,,survey-text,250,441909,0.0-2.0-2.82,6,B,23/02/2026,755,,"{""age"":""30""}",,exp1,62,color,30
+,,,,,html-keyboard-response,251,442416,0.0-2.0-0.83,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,252,444432,0.0-2.0-1.83,6,B,23/02/2026,null,"<img src=""img/face_082_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,82,color,
+,,,,,survey-text,253,446431,0.0-2.0-2.83,6,B,23/02/2026,1994,,"{""age"":""27""}",,exp1,82,color,27
+,,,,,html-keyboard-response,254,446947,0.0-2.0-0.84,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,255,448964,0.0-2.0-1.84,6,B,23/02/2026,null,"<img src=""img/face_046_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,46,color,
+,,,,,survey-text,256,450356,0.0-2.0-2.84,6,B,23/02/2026,1386,,"{""age"":""40""}",,exp1,46,color,40
+,,,,,html-keyboard-response,257,450870,0.0-2.0-0.85,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,258,452881,0.0-2.0-1.85,6,B,23/02/2026,null,"<img src=""img/face_004_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,4,color,
+,,,,,survey-text,259,455034,0.0-2.0-2.85,6,B,23/02/2026,2150,,"{""age"":""37""}",,exp1,4,color,37
+,,,,,html-keyboard-response,260,455535,0.0-2.0-0.86,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,261,457551,0.0-2.0-1.86,6,B,23/02/2026,null,"<img src=""img/face_093_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,93,grey,
+,,,,,survey-text,262,462485,0.0-2.0-2.86,6,B,23/02/2026,4930,,"{""age"":""30""}",,exp1,93,grey,30
+,,,,,html-keyboard-response,263,462994,0.0-2.0-0.87,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,264,465005,0.0-2.0-1.87,6,B,23/02/2026,null,"<img src=""img/face_051_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,51,grey,
+,,,,,survey-text,265,468251,0.0-2.0-2.87,6,B,23/02/2026,3241,,"{""age"":""39""}",,exp1,51,grey,39
+,,,,,html-keyboard-response,266,468756,0.0-2.0-0.88,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,267,470764,0.0-2.0-1.88,6,B,23/02/2026,null,"<img src=""img/face_027_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,27,grey,
+,,,,,survey-text,268,476734,0.0-2.0-2.88,6,B,23/02/2026,5963,,"{""age"":""35""}",,exp1,27,grey,35
+,,,,,html-keyboard-response,269,477238,0.0-2.0-0.89,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,270,479252,0.0-2.0-1.89,6,B,23/02/2026,null,"<img src=""img/face_076_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,76,color,
+,,,,,survey-text,271,480765,0.0-2.0-2.89,6,B,23/02/2026,1509,,"{""age"":""30""}",,exp1,76,color,30
+,,,,,html-keyboard-response,272,481281,0.0-2.0-0.90,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,273,483294,0.0-2.0-1.90,6,B,23/02/2026,null,"<img src=""img/face_096_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,96,color,
+,,,,,survey-text,274,487775,0.0-2.0-2.90,6,B,23/02/2026,4476,,"{""age"":""29""}",,exp1,96,color,29
+,,,,,html-keyboard-response,275,488288,0.0-2.0-0.91,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,276,490297,0.0-2.0-1.91,6,B,23/02/2026,null,"<img src=""img/face_031_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,31,grey,
+,,,,,survey-text,277,491310,0.0-2.0-2.91,6,B,23/02/2026,1006,,"{""age"":""55""}",,exp1,31,grey,55
+,,,,,html-keyboard-response,278,491824,0.0-2.0-0.92,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,279,493839,0.0-2.0-1.92,6,B,23/02/2026,null,"<img src=""img/face_079_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,79,grey,
+,,,,,survey-text,280,494743,0.0-2.0-2.92,6,B,23/02/2026,900,,"{""age"":""30""}",,exp1,79,grey,30
+,,,,,html-keyboard-response,281,495255,0.0-2.0-0.93,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,282,497264,0.0-2.0-1.93,6,B,23/02/2026,null,"<img src=""img/face_021_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,21,grey,
+,,,,,survey-text,283,498330,0.0-2.0-2.93,6,B,23/02/2026,1060,,"{""age"":""40""}",,exp1,21,grey,40
+,,,,,html-keyboard-response,284,498842,0.0-2.0-0.94,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,285,500857,0.0-2.0-1.94,6,B,23/02/2026,null,"<img src=""img/face_053_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,53,grey,
+,,,,,survey-text,286,501780,0.0-2.0-2.94,6,B,23/02/2026,920,,"{""age"":""40\\""}",,exp1,53,grey,40
+,,,,,html-keyboard-response,287,502287,0.0-2.0-0.95,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,288,504296,0.0-2.0-1.95,6,B,23/02/2026,null,"<img src=""img/face_008_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,8,color,
+,,,,,survey-text,289,505799,0.0-2.0-2.95,6,B,23/02/2026,1499,,"{""age"":""35""}",,exp1,8,color,35
+,,,,,html-keyboard-response,290,506315,0.0-2.0-0.96,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,291,508324,0.0-2.0-1.96,6,B,23/02/2026,null,"<img src=""img/face_035_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,35,grey,
+,,,,,survey-text,292,509877,0.0-2.0-2.96,6,B,23/02/2026,1548,,"{""age"":""25""}",,exp1,35,grey,25
+,,,,,html-keyboard-response,293,510390,0.0-2.0-0.97,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,294,512402,0.0-2.0-1.97,6,B,23/02/2026,null,"<img src=""img/face_092_color.jpg"" style=""height:400px; width:auto;"">",null,,exp1,92,color,
+,,,,,survey-text,295,513622,0.0-2.0-2.97,6,B,23/02/2026,1218,,"{""age"":""35""}",,exp1,92,color,35
+,,,,,html-keyboard-response,296,514127,0.0-2.0-0.98,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,297,516135,0.0-2.0-1.98,6,B,23/02/2026,null,"<img src=""img/face_087_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,87,grey,
+,,,,,survey-text,298,517146,0.0-2.0-2.98,6,B,23/02/2026,1007,,"{""age"":""30""}",,exp1,87,grey,30
+,,,,,html-keyboard-response,299,517654,0.0-2.0-0.99,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,300,519662,0.0-2.0-1.99,6,B,23/02/2026,null,"<img src=""img/face_041_grey.jpg"" style=""height:400px; width:auto;"">",null,,exp1,41,grey,
+,,,,,survey-text,301,520442,0.0-2.0-2.99,6,B,23/02/2026,777,,"{""age"":""20""}",,exp1,41,grey,20
+,,,,,html-keyboard-response,302,547579,0.0-3.0,6,B,23/02/2026,27136,"
+            <h2>Break</h2>
+            <p>You have finished Part 1.</p>
+            <p>Take a short rest.</p>
+            <p>Press any key to start Part 2.</p>
+        ",enter,,,,,
+,,,,,html-keyboard-response,303,548085,0.0-4.0-0.0,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,304,550097,0.0-4.0-1.0,6,B,23/02/2026,null,"<img src=""img/face_183_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,183,rg_minus,
+,,,,,survey-text,305,552002,0.0-4.0-2.0,6,B,23/02/2026,1900,,"{""age"":""35""}",,exp2,183,rg_minus,35
+,,,,,html-keyboard-response,306,552518,0.0-4.0-0.1,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,307,554530,0.0-4.0-1.1,6,B,23/02/2026,null,"<img src=""img/face_168_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,168,rg_plus,
+,,,,,survey-text,308,556176,0.0-4.0-2.1,6,B,23/02/2026,1641,,"{""age"":""40""}",,exp2,168,rg_plus,40
+,,,,,html-keyboard-response,309,556686,0.0-4.0-0.2,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,310,558698,0.0-4.0-1.2,6,B,23/02/2026,null,"<img src=""img/face_113_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,113,rg_minus,
+,,,,,survey-text,311,560493,0.0-4.0-2.2,6,B,23/02/2026,1791,,"{""age"":""40""}",,exp2,113,rg_minus,40
+,,,,,html-keyboard-response,312,560997,0.0-4.0-0.3,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,313,563009,0.0-4.0-1.3,6,B,23/02/2026,null,"<img src=""img/face_129_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,129,rg_minus,
+,,,,,survey-text,314,564167,0.0-4.0-2.3,6,B,23/02/2026,1155,,"{""age"":""40""}",,exp2,129,rg_minus,40
+,,,,,html-keyboard-response,315,564678,0.0-4.0-0.4,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,316,566685,0.0-4.0-1.4,6,B,23/02/2026,null,"<img src=""img/face_190_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,190,rg_plus,
+,,,,,survey-text,317,567723,0.0-4.0-2.4,6,B,23/02/2026,1032,,"{""age"":""30""}",,exp2,190,rg_plus,30
+,,,,,html-keyboard-response,318,568231,0.0-4.0-0.5,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,319,570245,0.0-4.0-1.5,6,B,23/02/2026,null,"<img src=""img/face_109_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,109,rg_minus,
+,,,,,survey-text,320,570909,0.0-4.0-2.5,6,B,23/02/2026,660,,"{""age"":""30""}",,exp2,109,rg_minus,30
+,,,,,html-keyboard-response,321,571421,0.0-4.0-0.6,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,322,573432,0.0-4.0-1.6,6,B,23/02/2026,null,"<img src=""img/face_189_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,189,rg_minus,
+,,,,,survey-text,323,574107,0.0-4.0-2.6,6,B,23/02/2026,669,,"{""age"":""25""}",,exp2,189,rg_minus,25
+,,,,,html-keyboard-response,324,574615,0.0-4.0-0.7,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,325,576627,0.0-4.0-1.7,6,B,23/02/2026,null,"<img src=""img/face_163_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,163,rg_minus,
+,,,,,survey-text,326,577175,0.0-4.0-2.7,6,B,23/02/2026,544,,"{""age"":""25""}",,exp2,163,rg_minus,25
+,,,,,html-keyboard-response,327,577685,0.0-4.0-0.8,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,328,579695,0.0-4.0-1.8,6,B,23/02/2026,null,"<img src=""img/face_111_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,111,rg_minus,
+,,,,,survey-text,329,580703,0.0-4.0-2.8,6,B,23/02/2026,1004,,"{""age"":""25""}",,exp2,111,rg_minus,25
+,,,,,html-keyboard-response,330,581207,0.0-4.0-0.9,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,331,583213,0.0-4.0-1.9,6,B,23/02/2026,null,"<img src=""img/face_149_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,149,rg_minus,
+,,,,,survey-text,332,584123,0.0-4.0-2.9,6,B,23/02/2026,905,,"{""age"":""30""}",,exp2,149,rg_minus,30
+,,,,,html-keyboard-response,333,584625,0.0-4.0-0.10,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,334,586629,0.0-4.0-1.10,6,B,23/02/2026,null,"<img src=""img/face_115_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,115,rg_minus,
+,,,,,survey-text,335,587235,0.0-4.0-2.10,6,B,23/02/2026,602,,"{""age"":""20""}",,exp2,115,rg_minus,20
+,,,,,html-keyboard-response,336,587743,0.0-4.0-0.11,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,337,589745,0.0-4.0-1.11,6,B,23/02/2026,null,"<img src=""img/face_173_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,173,rg_minus,
+,,,,,survey-text,338,590773,0.0-4.0-2.11,6,B,23/02/2026,1024,,"{""age"":""30""}",,exp2,173,rg_minus,30
+,,,,,html-keyboard-response,339,591284,0.0-4.0-0.12,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,340,593290,0.0-4.0-1.12,6,B,23/02/2026,null,"<img src=""img/face_162_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,162,rg_plus,
+,,,,,survey-text,341,594896,0.0-4.0-2.12,6,B,23/02/2026,1603,,"{""age"":""30""}",,exp2,162,rg_plus,30
+,,,,,html-keyboard-response,342,595408,0.0-4.0-0.13,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,343,597415,0.0-4.0-1.13,6,B,23/02/2026,null,"<img src=""img/face_151_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,151,rg_minus,
+,,,,,survey-text,344,598018,0.0-4.0-2.13,6,B,23/02/2026,598,,"{""age"":""30""}",,exp2,151,rg_minus,30
+,,,,,html-keyboard-response,345,598523,0.0-4.0-0.14,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,346,600526,0.0-4.0-1.14,6,B,23/02/2026,null,"<img src=""img/face_193_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,193,rg_minus,
+,,,,,survey-text,347,601569,0.0-4.0-2.14,6,B,23/02/2026,1039,,"{""age"":""25""}",,exp2,193,rg_minus,25
+,,,,,html-keyboard-response,348,602071,0.0-4.0-0.15,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,349,604082,0.0-4.0-1.15,6,B,23/02/2026,null,"<img src=""img/face_144_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,144,rg_plus,
+,,,,,survey-text,350,604702,0.0-4.0-2.15,6,B,23/02/2026,614,,"{""age"":""25""}",,exp2,144,rg_plus,25
+,,,,,html-keyboard-response,351,605211,0.0-4.0-0.16,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,352,607227,0.0-4.0-1.16,6,B,23/02/2026,null,"<img src=""img/face_142_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,142,rg_plus,
+,,,,,survey-text,353,607833,0.0-4.0-2.16,6,B,23/02/2026,602,,"{""age"":""50""}",,exp2,142,rg_plus,50
+,,,,,html-keyboard-response,354,608334,0.0-4.0-0.17,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,355,610346,0.0-4.0-1.17,6,B,23/02/2026,null,"<img src=""img/face_154_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,154,rg_plus,
+,,,,,survey-text,356,611422,0.0-4.0-2.17,6,B,23/02/2026,1072,,"{""age"":""30""}",,exp2,154,rg_plus,30
+,,,,,html-keyboard-response,357,611923,0.0-4.0-0.18,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,358,613933,0.0-4.0-1.18,6,B,23/02/2026,null,"<img src=""img/face_103_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,103,rg_minus,
+,,,,,survey-text,359,614567,0.0-4.0-2.18,6,B,23/02/2026,629,,"{""age"":""30""}",,exp2,103,rg_minus,30
+,,,,,html-keyboard-response,360,615073,0.0-4.0-0.19,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,361,617087,0.0-4.0-1.19,6,B,23/02/2026,null,"<img src=""img/face_125_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,125,rg_minus,
+,,,,,survey-text,362,618782,0.0-4.0-2.19,6,B,23/02/2026,1691,,"{""age"":""25""}",,exp2,125,rg_minus,25
+,,,,,html-keyboard-response,363,619284,0.0-4.0-0.20,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,364,621297,0.0-4.0-1.20,6,B,23/02/2026,null,"<img src=""img/face_132_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,132,rg_plus,
+,,,,,survey-text,365,621958,0.0-4.0-2.20,6,B,23/02/2026,657,,"{""age"":""50""}",,exp2,132,rg_plus,50
+,,,,,html-keyboard-response,366,622469,0.0-4.0-0.21,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,367,624480,0.0-4.0-1.21,6,B,23/02/2026,null,"<img src=""img/face_116_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,116,rg_plus,
+,,,,,survey-text,368,625030,0.0-4.0-2.21,6,B,23/02/2026,544,,"{""age"":""30""}",,exp2,116,rg_plus,30
+,,,,,html-keyboard-response,369,625542,0.0-4.0-0.22,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,370,627556,0.0-4.0-1.22,6,B,23/02/2026,null,"<img src=""img/face_156_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,156,rg_plus,
+,,,,,survey-text,371,628129,0.0-4.0-2.22,6,B,23/02/2026,569,,"{""age"":""20""}",,exp2,156,rg_plus,20
+,,,,,html-keyboard-response,372,628632,0.0-4.0-0.23,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,373,630636,0.0-4.0-1.23,6,B,23/02/2026,null,"<img src=""img/face_180_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,180,rg_plus,
+,,,,,survey-text,374,631575,0.0-4.0-2.23,6,B,23/02/2026,934,,"{""age"":""20""}",,exp2,180,rg_plus,20
+,,,,,html-keyboard-response,375,632086,0.0-4.0-0.24,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,376,634092,0.0-4.0-1.24,6,B,23/02/2026,null,"<img src=""img/face_197_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,197,rg_minus,
+,,,,,survey-text,377,635108,0.0-4.0-2.24,6,B,23/02/2026,1011,,"{""age"":""30""}",,exp2,197,rg_minus,30
+,,,,,html-keyboard-response,378,635622,0.0-4.0-0.25,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,379,637636,0.0-4.0-1.25,6,B,23/02/2026,null,"<img src=""img/face_136_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,136,rg_plus,
+,,,,,survey-text,380,639166,0.0-4.0-2.25,6,B,23/02/2026,1525,,"{""age"":""30""}",,exp2,136,rg_plus,30
+,,,,,html-keyboard-response,381,639680,0.0-4.0-0.26,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,382,641687,0.0-4.0-1.26,6,B,23/02/2026,null,"<img src=""img/face_112_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,112,rg_plus,
+,,,,,survey-text,383,643171,0.0-4.0-2.26,6,B,23/02/2026,1480,,"{""age"":""50""}",,exp2,112,rg_plus,50
+,,,,,html-keyboard-response,384,643679,0.0-4.0-0.27,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,385,645692,0.0-4.0-1.27,6,B,23/02/2026,null,"<img src=""img/face_200_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,200,rg_plus,
+,,,,,survey-text,386,646716,0.0-4.0-2.27,6,B,23/02/2026,1019,,"{""age"":""40""}",,exp2,200,rg_plus,40
+,,,,,html-keyboard-response,387,647219,0.0-4.0-0.28,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,388,649232,0.0-4.0-1.28,6,B,23/02/2026,null,"<img src=""img/face_145_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,145,rg_minus,
+,,,,,survey-text,389,650632,0.0-4.0-2.28,6,B,23/02/2026,1396,,"{""age"":""40""}",,exp2,145,rg_minus,40
+,,,,,html-keyboard-response,390,651135,0.0-4.0-0.29,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,391,653148,0.0-4.0-1.29,6,B,23/02/2026,null,"<img src=""img/face_146_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,146,rg_plus,
+,,,,,survey-text,392,653957,0.0-4.0-2.29,6,B,23/02/2026,803,,"{""age"":""20""}",,exp2,146,rg_plus,20
+,,,,,html-keyboard-response,393,654460,0.0-4.0-0.30,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,394,656476,0.0-4.0-1.30,6,B,23/02/2026,null,"<img src=""img/face_140_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,140,rg_plus,
+,,,,,survey-text,395,657266,0.0-4.0-2.30,6,B,23/02/2026,784,,"{""age"":""50""}",,exp2,140,rg_plus,50
+,,,,,html-keyboard-response,396,657776,0.0-4.0-0.31,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,397,659785,0.0-4.0-1.31,6,B,23/02/2026,null,"<img src=""img/face_188_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,188,rg_plus,
+,,,,,survey-text,398,660545,0.0-4.0-2.31,6,B,23/02/2026,757,,"{""age"":""20""}",,exp2,188,rg_plus,20
+,,,,,html-keyboard-response,399,661050,0.0-4.0-0.32,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,400,663059,0.0-4.0-1.32,6,B,23/02/2026,null,"<img src=""img/face_106_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,106,rg_plus,
+,,,,,survey-text,401,664402,0.0-4.0-2.32,6,B,23/02/2026,1339,,"{""age"":""20""}",,exp2,106,rg_plus,20
+,,,,,html-keyboard-response,402,664915,0.0-4.0-0.33,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,403,666918,0.0-4.0-1.33,6,B,23/02/2026,null,"<img src=""img/face_159_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,159,rg_minus,
+,,,,,survey-text,404,669223,0.0-4.0-2.33,6,B,23/02/2026,2302,,"{""age"":""20""}",,exp2,159,rg_minus,20
+,,,,,html-keyboard-response,405,669734,0.0-4.0-0.34,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,406,671745,0.0-4.0-1.34,6,B,23/02/2026,null,"<img src=""img/face_138_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,138,rg_plus,
+,,,,,survey-text,407,674579,0.0-4.0-2.34,6,B,23/02/2026,2830,,"{""age"":""20""}",,exp2,138,rg_plus,20
+,,,,,html-keyboard-response,408,675084,0.0-4.0-0.35,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,409,677088,0.0-4.0-1.35,6,B,23/02/2026,null,"<img src=""img/face_171_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,171,rg_minus,
+,,,,,survey-text,410,677927,0.0-4.0-2.35,6,B,23/02/2026,834,,"{""age"":""30""}",,exp2,171,rg_minus,30
+,,,,,html-keyboard-response,411,678443,0.0-4.0-0.36,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,412,680459,0.0-4.0-1.36,6,B,23/02/2026,null,"<img src=""img/face_101_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,101,rg_minus,
+,,,,,survey-text,413,681464,0.0-4.0-2.36,6,B,23/02/2026,1000,,"{""age"":""40""}",,exp2,101,rg_minus,40
+,,,,,html-keyboard-response,414,681973,0.0-4.0-0.37,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,415,683979,0.0-4.0-1.37,6,B,23/02/2026,null,"<img src=""img/face_143_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,143,rg_minus,
+,,,,,survey-text,416,684801,0.0-4.0-2.37,6,B,23/02/2026,817,,"{""age"":""50""}",,exp2,143,rg_minus,50
+,,,,,html-keyboard-response,417,685317,0.0-4.0-0.38,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,418,687331,0.0-4.0-1.38,6,B,23/02/2026,null,"<img src=""img/face_170_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,170,rg_plus,
+,,,,,survey-text,419,688341,0.0-4.0-2.38,6,B,23/02/2026,1004,,"{""age"":""40""}",,exp2,170,rg_plus,40
+,,,,,html-keyboard-response,420,688845,0.0-4.0-0.39,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,421,690861,0.0-4.0-1.39,6,B,23/02/2026,null,"<img src=""img/face_119_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,119,rg_minus,
+,,,,,survey-text,422,692793,0.0-4.0-2.39,6,B,23/02/2026,1928,,"{""age"":""30""}",,exp2,119,rg_minus,30
+,,,,,html-keyboard-response,423,693295,0.0-4.0-0.40,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,424,695311,0.0-4.0-1.40,6,B,23/02/2026,null,"<img src=""img/face_147_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,147,rg_minus,
+,,,,,survey-text,425,696363,0.0-4.0-2.40,6,B,23/02/2026,1047,,"{""age"":""20""}",,exp2,147,rg_minus,20
+,,,,,html-keyboard-response,426,696875,0.0-4.0-0.41,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,427,698887,0.0-4.0-1.41,6,B,23/02/2026,null,"<img src=""img/face_139_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,139,rg_minus,
+,,,,,survey-text,428,700530,0.0-4.0-2.41,6,B,23/02/2026,1640,,"{""age"":""40""}",,exp2,139,rg_minus,40
+,,,,,html-keyboard-response,429,701046,0.0-4.0-0.42,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,430,703061,0.0-4.0-1.42,6,B,23/02/2026,null,"<img src=""img/face_167_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,167,rg_minus,
+,,,,,survey-text,431,704897,0.0-4.0-2.42,6,B,23/02/2026,1831,,"{""age"":""30""}",,exp2,167,rg_minus,30
+,,,,,html-keyboard-response,432,705407,0.0-4.0-0.43,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,433,707410,0.0-4.0-1.43,6,B,23/02/2026,null,"<img src=""img/face_118_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,118,rg_plus,
+,,,,,survey-text,434,709462,0.0-4.0-2.43,6,B,23/02/2026,2039,,"{""age"":""20""}",,exp2,118,rg_plus,20
+,,,,,html-keyboard-response,435,709975,0.0-4.0-0.44,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,436,711989,0.0-4.0-1.44,6,B,23/02/2026,null,"<img src=""img/face_174_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,174,rg_plus,
+,,,,,survey-text,437,722462,0.0-4.0-2.44,6,B,23/02/2026,10467,,"{""age"":""30""}",,exp2,174,rg_plus,30
+,,,,,html-keyboard-response,438,722964,0.0-4.0-0.45,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,439,724980,0.0-4.0-1.45,6,B,23/02/2026,null,"<img src=""img/face_123_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,123,rg_minus,
+,,,,,survey-text,440,725627,0.0-4.0-2.45,6,B,23/02/2026,639,,"{""age"":""30""}",,exp2,123,rg_minus,30
+,,,,,html-keyboard-response,441,726134,0.0-4.0-0.46,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,442,728137,0.0-4.0-1.46,6,B,23/02/2026,null,"<img src=""img/face_110_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,110,rg_plus,
+,,,,,survey-text,443,729375,0.0-4.0-2.46,6,B,23/02/2026,1234,,"{""age"":""40""}",,exp2,110,rg_plus,40
+,,,,,html-keyboard-response,444,729888,0.0-4.0-0.47,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,445,731895,0.0-4.0-1.47,6,B,23/02/2026,null,"<img src=""img/face_177_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,177,rg_minus,
+,,,,,survey-text,446,732888,0.0-4.0-2.47,6,B,23/02/2026,988,,"{""age"":""40""}",,exp2,177,rg_minus,40
+,,,,,html-keyboard-response,447,733403,0.0-4.0-0.48,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,448,735419,0.0-4.0-1.48,6,B,23/02/2026,null,"<img src=""img/face_160_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,160,rg_plus,
+,,,,,survey-text,449,740758,0.0-4.0-2.48,6,B,23/02/2026,5335,,"{""age"":""20""}",,exp2,160,rg_plus,20
+,,,,,html-keyboard-response,450,741271,0.0-4.0-0.49,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,451,743281,0.0-4.0-1.49,6,B,23/02/2026,null,"<img src=""img/face_157_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,157,rg_minus,
+,,,,,survey-text,452,746525,0.0-4.0-2.49,6,B,23/02/2026,3241,,"{""age"":""30""}",,exp2,157,rg_minus,30
+,,,,,html-keyboard-response,453,747031,0.0-4.0-0.50,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,454,749038,0.0-4.0-1.50,6,B,23/02/2026,null,"<img src=""img/face_114_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,114,rg_plus,
+,,,,,survey-text,455,749923,0.0-4.0-2.50,6,B,23/02/2026,880,,"{""age"":""20""}",,exp2,114,rg_plus,20
+,,,,,html-keyboard-response,456,750426,0.0-4.0-0.51,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,457,752428,0.0-4.0-1.51,6,B,23/02/2026,null,"<img src=""img/face_128_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,128,rg_plus,
+,,,,,survey-text,458,753644,0.0-4.0-2.51,6,B,23/02/2026,1212,,"{""age"":""40""}",,exp2,128,rg_plus,40
+,,,,,html-keyboard-response,459,754154,0.0-4.0-0.52,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,460,756169,0.0-4.0-1.52,6,B,23/02/2026,null,"<img src=""img/face_155_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,155,rg_minus,
+,,,,,survey-text,461,758573,0.0-4.0-2.52,6,B,23/02/2026,2400,,"{""age"":""40""}",,exp2,155,rg_minus,40
+,,,,,html-keyboard-response,462,759077,0.0-4.0-0.53,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,463,761088,0.0-4.0-1.53,6,B,23/02/2026,null,"<img src=""img/face_179_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,179,rg_minus,
+,,,,,survey-text,464,763661,0.0-4.0-2.53,6,B,23/02/2026,2568,,"{""age"":""30""}",,exp2,179,rg_minus,30
+,,,,,html-keyboard-response,465,764171,0.0-4.0-0.54,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,466,766179,0.0-4.0-1.54,6,B,23/02/2026,null,"<img src=""img/face_102_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,102,rg_plus,
+,,,,,survey-text,467,767100,0.0-4.0-2.54,6,B,23/02/2026,917,,"{""age"":""28""}",,exp2,102,rg_plus,28
+,,,,,html-keyboard-response,468,767614,0.0-4.0-0.55,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,469,769631,0.0-4.0-1.55,6,B,23/02/2026,null,"<img src=""img/face_135_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,135,rg_minus,
+,,,,,survey-text,470,770377,0.0-4.0-2.55,6,B,23/02/2026,741,,"{""age"":""28""}",,exp2,135,rg_minus,28
+,,,,,html-keyboard-response,471,770880,0.0-4.0-0.56,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,472,772894,0.0-4.0-1.56,6,B,23/02/2026,null,"<img src=""img/face_187_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,187,rg_minus,
+,,,,,survey-text,473,773760,0.0-4.0-2.56,6,B,23/02/2026,862,,"{""age"":""50""}",,exp2,187,rg_minus,50
+,,,,,html-keyboard-response,474,774265,0.0-4.0-0.57,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,475,776277,0.0-4.0-1.57,6,B,23/02/2026,null,"<img src=""img/face_172_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,172,rg_plus,
+,,,,,survey-text,476,778140,0.0-4.0-2.57,6,B,23/02/2026,1858,,"{""age"":""30""}",,exp2,172,rg_plus,30
+,,,,,html-keyboard-response,477,778652,0.0-4.0-0.58,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,478,780655,0.0-4.0-1.58,6,B,23/02/2026,null,"<img src=""img/face_158_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,158,rg_plus,
+,,,,,survey-text,479,782416,0.0-4.0-2.58,6,B,23/02/2026,1756,,"{""age"":""24""}",,exp2,158,rg_plus,24
+,,,,,html-keyboard-response,480,782917,0.0-4.0-0.59,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,481,784931,0.0-4.0-1.59,6,B,23/02/2026,null,"<img src=""img/face_152_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,152,rg_plus,
+,,,,,survey-text,482,786102,0.0-4.0-2.59,6,B,23/02/2026,1169,,"{""age"":""24""}",,exp2,152,rg_plus,24
+,,,,,html-keyboard-response,483,786619,0.0-4.0-0.60,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,484,788633,0.0-4.0-1.60,6,B,23/02/2026,null,"<img src=""img/face_130_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,130,rg_plus,
+,,,,,survey-text,485,789820,0.0-4.0-2.60,6,B,23/02/2026,1181,,"{""age"":""24""}",,exp2,130,rg_plus,24
+,,,,,html-keyboard-response,486,790335,0.0-4.0-0.61,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,487,792344,0.0-4.0-1.61,6,B,23/02/2026,null,"<img src=""img/face_194_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,194,rg_plus,
+,,,,,survey-text,488,794439,0.0-4.0-2.61,6,B,23/02/2026,2092,,"{""age"":""30""}",,exp2,194,rg_plus,30
+,,,,,html-keyboard-response,489,794948,0.0-4.0-0.62,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,490,796963,0.0-4.0-1.62,6,B,23/02/2026,null,"<img src=""img/face_186_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,186,rg_plus,
+,,,,,survey-text,491,797801,0.0-4.0-2.62,6,B,23/02/2026,834,,"{""age"":""30""}",,exp2,186,rg_plus,30
+,,,,,html-keyboard-response,492,798303,0.0-4.0-0.63,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,493,800308,0.0-4.0-1.63,6,B,23/02/2026,null,"<img src=""img/face_195_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,195,rg_minus,
+,,,,,survey-text,494,801302,0.0-4.0-2.63,6,B,23/02/2026,989,,"{""age"":""30\\""}",,exp2,195,rg_minus,30\
+,,,,,html-keyboard-response,495,801803,0.0-4.0-0.64,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,496,803818,0.0-4.0-1.64,6,B,23/02/2026,null,"<img src=""img/face_107_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,107,rg_minus,
+,,,,,survey-text,497,804695,0.0-4.0-2.64,6,B,23/02/2026,872,,"{""age"":""20""}",,exp2,107,rg_minus,20
+,,,,,html-keyboard-response,498,805206,0.0-4.0-0.65,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,499,807220,0.0-4.0-1.65,6,B,23/02/2026,null,"<img src=""img/face_176_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,176,rg_plus,
+,,,,,survey-text,500,808093,0.0-4.0-2.65,6,B,23/02/2026,869,,"{""age"":""20""}",,exp2,176,rg_plus,20
+,,,,,html-keyboard-response,501,808594,0.0-4.0-0.66,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,502,810612,0.0-4.0-1.66,6,B,23/02/2026,null,"<img src=""img/face_169_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,169,rg_minus,
+,,,,,survey-text,503,811323,0.0-4.0-2.66,6,B,23/02/2026,706,,"{""age"":""20""}",,exp2,169,rg_minus,20
+,,,,,html-keyboard-response,504,811827,0.0-4.0-0.67,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,505,813843,0.0-4.0-1.67,6,B,23/02/2026,null,"<img src=""img/face_104_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,104,rg_plus,
+,,,,,survey-text,506,814672,0.0-4.0-2.67,6,B,23/02/2026,825,,"{""age"":""40""}",,exp2,104,rg_plus,40
+,,,,,html-keyboard-response,507,815183,0.0-4.0-0.68,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,508,817188,0.0-4.0-1.68,6,B,23/02/2026,null,"<img src=""img/face_150_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,150,rg_plus,
+,,,,,survey-text,509,818110,0.0-4.0-2.68,6,B,23/02/2026,919,,"{""age"":""40""}",,exp2,150,rg_plus,40
+,,,,,html-keyboard-response,510,818626,0.0-4.0-0.69,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,511,820633,0.0-4.0-1.69,6,B,23/02/2026,null,"<img src=""img/face_131_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,131,rg_minus,
+,,,,,survey-text,512,821768,0.0-4.0-2.69,6,B,23/02/2026,1132,,"{""age"":""30""}",,exp2,131,rg_minus,30
+,,,,,html-keyboard-response,513,822278,0.0-4.0-0.70,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,514,824291,0.0-4.0-1.70,6,B,23/02/2026,null,"<img src=""img/face_108_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,108,rg_plus,
+,,,,,survey-text,515,824876,0.0-4.0-2.70,6,B,23/02/2026,580,,"{""age"":""30""}",,exp2,108,rg_plus,30
+,,,,,html-keyboard-response,516,825382,0.0-4.0-0.71,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,517,827387,0.0-4.0-1.71,6,B,23/02/2026,null,"<img src=""img/face_182_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,182,rg_plus,
+,,,,,survey-text,518,828183,0.0-4.0-2.71,6,B,23/02/2026,793,,"{""age"":""40""}",,exp2,182,rg_plus,40
+,,,,,html-keyboard-response,519,828693,0.0-4.0-0.72,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,520,830701,0.0-4.0-1.72,6,B,23/02/2026,null,"<img src=""img/face_199_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,199,rg_minus,
+,,,,,survey-text,521,832116,0.0-4.0-2.72,6,B,23/02/2026,1411,,"{""age"":""50""}",,exp2,199,rg_minus,50
+,,,,,html-keyboard-response,522,832628,0.0-4.0-0.73,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,523,834636,0.0-4.0-1.73,6,B,23/02/2026,null,"<img src=""img/face_127_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,127,rg_minus,
+,,,,,survey-text,524,836759,0.0-4.0-2.73,6,B,23/02/2026,2119,,"{""age"":""35""}",,exp2,127,rg_minus,35
+,,,,,html-keyboard-response,525,837273,0.0-4.0-0.74,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,526,839291,0.0-4.0-1.74,6,B,23/02/2026,null,"<img src=""img/face_120_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,120,rg_plus,
+,,,,,survey-text,527,841265,0.0-4.0-2.74,6,B,23/02/2026,1970,,"{""age"":""45""}",,exp2,120,rg_plus,45
+,,,,,html-keyboard-response,528,841770,0.0-4.0-0.75,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,529,843782,0.0-4.0-1.75,6,B,23/02/2026,null,"<img src=""img/face_192_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,192,rg_plus,
+,,,,,survey-text,530,844691,0.0-4.0-2.75,6,B,23/02/2026,904,,"{""age"":""30""}",,exp2,192,rg_plus,30
+,,,,,html-keyboard-response,531,845199,0.0-4.0-0.76,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,532,847211,0.0-4.0-1.76,6,B,23/02/2026,null,"<img src=""img/face_161_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,161,rg_minus,
+,,,,,survey-text,533,849215,0.0-4.0-2.76,6,B,23/02/2026,1999,,"{""age"":""40""}",,exp2,161,rg_minus,40
+,,,,,html-keyboard-response,534,849720,0.0-4.0-0.77,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,535,851735,0.0-4.0-1.77,6,B,23/02/2026,null,"<img src=""img/face_166_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,166,rg_plus,
+,,,,,survey-text,536,852472,0.0-4.0-2.77,6,B,23/02/2026,733,,"{""age"":""35""}",,exp2,166,rg_plus,35
+,,,,,html-keyboard-response,537,852982,0.0-4.0-0.78,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,538,854991,0.0-4.0-1.78,6,B,23/02/2026,null,"<img src=""img/face_185_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,185,rg_minus,
+,,,,,survey-text,539,856099,0.0-4.0-2.78,6,B,23/02/2026,1104,,"{""age"":""30""}",,exp2,185,rg_minus,30
+,,,,,html-keyboard-response,540,856601,0.0-4.0-0.79,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,541,858614,0.0-4.0-1.79,6,B,23/02/2026,null,"<img src=""img/face_137_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,137,rg_minus,
+,,,,,survey-text,542,859397,0.0-4.0-2.79,6,B,23/02/2026,779,,"{""age"":""50o""}",,exp2,137,rg_minus,50
+,,,,,html-keyboard-response,543,859899,0.0-4.0-0.80,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,544,861912,0.0-4.0-1.80,6,B,23/02/2026,null,"<img src=""img/face_178_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,178,rg_plus,
+,,,,,survey-text,545,863828,0.0-4.0-2.80,6,B,23/02/2026,1912,,"{""age"":""40""}",,exp2,178,rg_plus,40
+,,,,,html-keyboard-response,546,864335,0.0-4.0-0.81,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,547,866342,0.0-4.0-1.81,6,B,23/02/2026,null,"<img src=""img/face_126_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,126,rg_plus,
+,,,,,survey-text,548,867067,0.0-4.0-2.81,6,B,23/02/2026,720,,"{""age"":""50""}",,exp2,126,rg_plus,50
+,,,,,html-keyboard-response,549,867578,0.0-4.0-0.82,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,550,869596,0.0-4.0-1.82,6,B,23/02/2026,null,"<img src=""img/face_184_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,184,rg_plus,
+,,,,,survey-text,551,870249,0.0-4.0-2.82,6,B,23/02/2026,649,,"{""age"":""50""}",,exp2,184,rg_plus,50
+,,,,,html-keyboard-response,552,870763,0.0-4.0-0.83,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,553,872771,0.0-4.0-1.83,6,B,23/02/2026,null,"<img src=""img/face_134_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,134,rg_plus,
+,,,,,survey-text,554,874218,0.0-4.0-2.83,6,B,23/02/2026,1443,,"{""age"":""30""}",,exp2,134,rg_plus,30
+,,,,,html-keyboard-response,555,874727,0.0-4.0-0.84,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,556,876740,0.0-4.0-1.84,6,B,23/02/2026,null,"<img src=""img/face_191_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,191,rg_minus,
+,,,,,survey-text,557,879052,0.0-4.0-2.84,6,B,23/02/2026,2307,,"{""age"":""35""}",,exp2,191,rg_minus,35
+,,,,,html-keyboard-response,558,879560,0.0-4.0-0.85,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,559,881571,0.0-4.0-1.85,6,B,23/02/2026,null,"<img src=""img/face_148_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,148,rg_plus,
+,,,,,survey-text,560,882608,0.0-4.0-2.85,6,B,23/02/2026,1032,,"{""age"":""30""}",,exp2,148,rg_plus,30
+,,,,,html-keyboard-response,561,883113,0.0-4.0-0.86,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,562,885123,0.0-4.0-1.86,6,B,23/02/2026,null,"<img src=""img/face_196_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,196,rg_plus,
+,,,,,survey-text,563,885751,0.0-4.0-2.86,6,B,23/02/2026,624,,"{""age"":""50""}",,exp2,196,rg_plus,50
+,,,,,html-keyboard-response,564,886261,0.0-4.0-0.87,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,565,888276,0.0-4.0-1.87,6,B,23/02/2026,null,"<img src=""img/face_198_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,198,rg_plus,
+,,,,,survey-text,566,889165,0.0-4.0-2.87,6,B,23/02/2026,886,,"{""age"":""70""}",,exp2,198,rg_plus,70
+,,,,,html-keyboard-response,567,889675,0.0-4.0-0.88,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,568,891679,0.0-4.0-1.88,6,B,23/02/2026,null,"<img src=""img/face_141_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,141,rg_minus,
+,,,,,survey-text,569,893434,0.0-4.0-2.88,6,B,23/02/2026,1749,,"{""age"":""40""}",,exp2,141,rg_minus,40
+,,,,,html-keyboard-response,570,893939,0.0-4.0-0.89,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,571,895941,0.0-4.0-1.89,6,B,23/02/2026,null,"<img src=""img/face_105_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,105,rg_minus,
+,,,,,survey-text,572,897396,0.0-4.0-2.89,6,B,23/02/2026,1452,,"{""age"":""30""}",,exp2,105,rg_minus,30
+,,,,,html-keyboard-response,573,897912,0.0-4.0-0.90,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,574,899922,0.0-4.0-1.90,6,B,23/02/2026,null,"<img src=""img/face_122_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,122,rg_plus,
+,,,,,survey-text,575,900674,0.0-4.0-2.90,6,B,23/02/2026,748,,"{""age"":""40""}",,exp2,122,rg_plus,40
+,,,,,html-keyboard-response,576,901179,0.0-4.0-0.91,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,577,903186,0.0-4.0-1.91,6,B,23/02/2026,null,"<img src=""img/face_153_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,153,rg_minus,
+,,,,,survey-text,578,904354,0.0-4.0-2.91,6,B,23/02/2026,1163,,"{""age"":""50""}",,exp2,153,rg_minus,50
+,,,,,html-keyboard-response,579,904867,0.0-4.0-0.92,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,580,906871,0.0-4.0-1.92,6,B,23/02/2026,null,"<img src=""img/face_121_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,121,rg_minus,
+,,,,,survey-text,581,907857,0.0-4.0-2.92,6,B,23/02/2026,983,,"{""age"":""40""}",,exp2,121,rg_minus,40
+,,,,,html-keyboard-response,582,908364,0.0-4.0-0.93,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,583,910371,0.0-4.0-1.93,6,B,23/02/2026,null,"<img src=""img/face_133_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,133,rg_minus,
+,,,,,survey-text,584,911774,0.0-4.0-2.93,6,B,23/02/2026,1398,,"{""age"":""25""}",,exp2,133,rg_minus,25
+,,,,,html-keyboard-response,585,912284,0.0-4.0-0.94,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,586,914297,0.0-4.0-1.94,6,B,23/02/2026,null,"<img src=""img/face_124_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,124,rg_plus,
+,,,,,survey-text,587,915375,0.0-4.0-2.94,6,B,23/02/2026,1071,,"{""age"":""25""}",,exp2,124,rg_plus,25
+,,,,,html-keyboard-response,588,915889,0.0-4.0-0.95,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,589,917904,0.0-4.0-1.95,6,B,23/02/2026,null,"<img src=""img/face_181_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,181,rg_minus,
+,,,,,survey-text,590,918857,0.0-4.0-2.95,6,B,23/02/2026,947,,"{""age"":""25""}",,exp2,181,rg_minus,25
+,,,,,html-keyboard-response,591,919365,0.0-4.0-0.96,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,592,921380,0.0-4.0-1.96,6,B,23/02/2026,null,"<img src=""img/face_117_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,117,rg_minus,
+,,,,,survey-text,593,923499,0.0-4.0-2.96,6,B,23/02/2026,2116,,"{""age"":""27""}",,exp2,117,rg_minus,27
+,,,,,html-keyboard-response,594,924013,0.0-4.0-0.97,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,595,926029,0.0-4.0-1.97,6,B,23/02/2026,null,"<img src=""img/face_175_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,175,rg_minus,
+,,,,,survey-text,596,926815,0.0-4.0-2.97,6,B,23/02/2026,782,,"{""age"":""30""}",,exp2,175,rg_minus,30
+,,,,,html-keyboard-response,597,927325,0.0-4.0-0.98,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,598,929335,0.0-4.0-1.98,6,B,23/02/2026,null,"<img src=""img/face_164_rg_plus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,164,rg_plus,
+,,,,,survey-text,599,930207,0.0-4.0-2.98,6,B,23/02/2026,869,,"{""age"":""25""}",,exp2,164,rg_plus,25
+,,,,,html-keyboard-response,600,930723,0.0-4.0-0.99,6,B,23/02/2026,null,"<div style=""font-size:60px;"">+</div>",null,fixation,,,,
+,,,,,html-keyboard-response,601,932736,0.0-4.0-1.99,6,B,23/02/2026,null,"<img src=""img/face_165_rg_minus.jpg"" style=""height:400px; width:auto;"">",null,,exp2,165,rg_minus,
+,,,,,survey-text,602,933562,0.0-4.0-2.99,6,B,23/02/2026,821,,"{""age"":""30""}",,exp2,165,rg_minus,30
